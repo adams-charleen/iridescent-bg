@@ -1,0 +1,8 @@
+iridescent-bg-env/
+__pycache__/
+*.pyc
+*.png
+test_env/
+dist/
+build/
+*.egg-info/
