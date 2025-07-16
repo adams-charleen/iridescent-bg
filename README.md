@@ -58,6 +58,13 @@ Generate a black-based iridescent background:
    bg = add_image(bg, side_image_path="path/to/your/image.jpg", width=540, position=(0, 0))
    bg.save("my_image_background.png", dpi=(600, 600))
 ```
+
+## Example Slide 
+
+<p align="center">
+  <img src="maimonides_1_of_1.png" alt="Maimonides Slide" width="400"/>
+</p>
+
 ## Configuration
 - Default Settings: 1080×1080, black base, 75 lines, 100 opacity, 20 blur, 200 dash length.
 - Customization: Adjust width, height, base_color (e.g., "#FF0000"), enhance_vibrancy, text position, image size/position.
