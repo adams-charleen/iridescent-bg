@@ -2,6 +2,8 @@
   <img src="logo.png" alt="iridescent-bg logo" style="width: 100%; max-height: 140px; object-fit: cover;">
 </p>
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # Iridescent-BG: Vibrant Background Generator
 
 ## Overview
