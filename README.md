@@ -1,3 +1,7 @@
+<p>
+  <img src="logo.png" alt="iridescent-bg logo" style="width: 100%; max-height: 140px; object-fit: cover;">
+</p>
+
 # Iridescent-BG: Vibrant Background Generator
 
 ## Overview
