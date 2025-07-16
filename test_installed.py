@@ -1,3 +1,6 @@
+# Copyright (c) 2025 Charleen Adams
+# Licensed under the MIT License. See the LICENSE file for details.
+
 import sys
 try:
     from iridescent_bg import generate_iridescent_background, add_text, add_image
