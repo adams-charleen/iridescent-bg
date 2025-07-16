@@ -22,7 +22,11 @@ The `iridescent-bg` Python package generates "iridescent" backgrounds for images
 
 ## Installation
 1. Ensure Python 3.6+ is installed.
-2. Install via pip: pip install iridescent-bg
+2. Install via pip:
+
+```
+pip install iridescent-bg
+```
 
 ## Usage
 ### Basic Background
