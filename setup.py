@@ -1,3 +1,6 @@
+# Copyright (c) 2025 Charleen Adams
+# Licensed under the MIT License. See the LICENSE file for details.
+
 # setup.py
 
 from setuptools import setup, find_packages
