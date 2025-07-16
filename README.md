@@ -23,7 +23,6 @@ The `iridescent-bg` Python package generates "iridescent" backgrounds for images
 ## Installation
 1. Ensure Python 3.6+ is installed.
 2. Install via pip: pip install iridescent-bg
-3. Verify: python -c "import iridescent_bg; print(iridescent_bg.__version__)"
 
 ## Usage
 ### Basic Background
@@ -56,9 +55,6 @@ Generate a black-based iridescent background:
 ## Configuration
 - Default Settings: 1080×1080, black base, 75 lines, 100 opacity, 20 blur, 200 dash length.
 - Customization: Adjust width, height, base_color (e.g., "#FF0000"), enhance_vibrancy, text position, image size/position.
-
-## Testing
-Run unit tests: python -m unittest discover tests
 
 ## Notes
 - The iridescent effect uses HSV for vibrant hues, varying each run.
