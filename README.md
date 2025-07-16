@@ -28,29 +28,31 @@ The `iridescent-bg` Python package generates "iridescent" backgrounds for images
 ## Usage
 ### Basic Background
 Generate a black-based iridescent background:
-   python
+
+```python
    from iridescent_bg import generate_iridescent_background
    from PIL import Image
    bg = generate_iridescent_background(width=1080, height=1080, enhance_vibrancy=True)
    bg.save("my_background.png", dpi=(600, 600))
-
+```
 ### Add Centered Top Text
-   python
+```python
    from iridescent_bg import generate_iridescent_background, add_text
    from PIL import Image
    bg = generate_iridescent_background(width=1080, height=1080, enhance_vibrancy=True)
    bg = add_text(bg, text="My Title", font_size=48, center_top=True)
    bg.save("my_text_background.png", dpi=(600, 600))
+```
 
 ### Add Custom Image
-   python
+```python
    from iridescent_bg import generate_iridescent_background, add_text, add_image
    from PIL import Image
    bg = generate_iridescent_background(width=1080, height=1080, enhance_vibrancy=True)
    bg = add_text(bg, text="My Project", font_size=48, center_top=True)
    bg = add_image(bg, side_image_path="path/to/your/image.jpg", width=540, position=(0, 0))
    bg.save("my_image_background.png", dpi=(600, 600))
-
+```
 ## Configuration
 - Default Settings: 1080×1080, black base, 75 lines, 100 opacity, 20 blur, 200 dash length.
 - Customization: Adjust width, height, base_color (e.g., "#FF0000"), enhance_vibrancy, text position, image size/position.
