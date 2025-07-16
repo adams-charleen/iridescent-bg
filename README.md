@@ -57,9 +57,6 @@ Generate a black-based iridescent background:
 - Default Settings: 1080×1080, black base, 75 lines, 100 opacity, 20 blur, 200 dash length.
 - Customization: Adjust width, height, base_color (e.g., "#FF0000"), enhance_vibrancy, text position, image size/position.
 
-## Example Outputs
-See generated examples in the [repository](https://github.com/adams-charleen/iridescent-bg).
-
 ## Testing
 Run unit tests: python -m unittest discover tests
 
