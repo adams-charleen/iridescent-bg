@@ -61,7 +61,7 @@ Generate a black-based iridescent background:
 
 ## Example Image
 
-- A slide with a quote. 
+- Slide with text and image added.
 
 <p align="center">
   <img src="maimonides_1_of_1.png" alt="Maimonides Slide" width="800"/>
