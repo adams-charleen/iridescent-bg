@@ -4,7 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# Iridescent-BG: Vibrant Background Generator
+# iridescent-bg: Vibrant Background Generator
 
 ## Overview
 The `iridescent-bg` Python package generates "iridescent" backgrounds for images, characterized by a rainbow-like effect. Using random colored lines in the HSV color space with a Gaussian blur, it creates visually striking backgrounds suitable for digital art, presentations, social media graphics, or any project needing a vibrant backdrop. Users can optionally add text and images with customizable positions.
