@@ -59,7 +59,9 @@ Generate a black-based iridescent background:
    bg.save("my_image_background.png", dpi=(600, 600))
 ```
 
-## Example Slide 
+## Example Image
+
+- A slide with a quote. 
 
 <p align="center">
   <img src="maimonides_1_of_1.png" alt="Maimonides Slide" width="800"/>
